@@ -1,0 +1,24 @@
+{
+  "name": "node-kafka-producer-api",
+  "version": "0.0.1",
+  "description": "send events from node.js instance to a kafka cluster.",
+  "main": "CallStatsProducerTestNew.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/callstats-io/node-kafka-producer-api.git"
+  },
+  "keywords": [
+    "kafka",
+    "producer",
+    "nodejs"
+  ],
+  "author": "Juhani Shen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/callstats-io/node-kafka-producer-api/issues"
+  },
+  "homepage": "https://github.com/callstats-io/node-kafka-producer-api"
+}
